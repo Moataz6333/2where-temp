@@ -1,0 +1,20 @@
+{
+    "id": 1,
+    "title": "Santorini Restaurant",
+    "address": "544 El Geish Road Hilton Alexandria\r\nCorniche, Alexandria 21611 Egypt",
+    "features": [
+      "Seafood",
+      "Restaurant"
+    ],
+    "price": "Moderate to High",
+    "rate": 5,
+    "postPhoto": "https://github.com/Moataz6333/2where-temp/images/restaraunts/restaurant-1.jpg",
+    "photos": [
+      "https://github.com/Moataz6333/2where-temp/images/restaraunts/alex sefoood 1.png",
+      "https://github.com/Moataz6333/2where-temp/images/restaraunts/boats-port-alicante 1.png"
+    ],
+    "menu": [
+      "https://github.com/Moataz6333/2where-temp/images/restaraunts/download.jfif",
+      "https://github.com/Moataz6333/2where-temp/images/restaraunts/download2.jpg"
+    ]
+  }

@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "title": "Bibliotheca Alexandrina",
+      "description": "The Bibliotheca Alexandrina, located in Alexandria, Egypt, is a modern reimagining of the ancient Library of Alexandria, one of the most famous libraries of antiquity. Inaugurated in 2002, this cultural complex stands as a tribute to the original library, which was a hub of knowledge and learning in the ancient world.",
+      "address_title": "Corniche Road, Shatby, Alexandria, Egypt.",
+      "address_details": "The Bibliotheca Alexandrina is located along the Corniche, offering beautiful views of the Mediterranean Sea and is easily accessible from various parts of the city.",
+      "rate": 5,
+      "features": [
+        "The library is an architectural marvel, featuring a massive disc-shaped structure tilted toward the Mediterranean Sea, symbolizing the rising sun and the spread of knowledge.",
+        "The library includes specialized research centers focusing on various fields such as information sciences, calligraphy, and cultural heritage."
+      ],
+      "timeTables": [
+        "Sunday to Thursday: 10:00 AM - 7:00 PM ",
+        "Friday and Saturday: 2:00 PM - 7:00 PM",
+        " Closed on Public holidays and certain special occasions."
+      ],
+      "accessabilities": {
+        "description": "The Bibliotheca Alexandrina is fully equipped to accommodate visitors with disabilities.",
+        "ramps": "is Available at all main entrances.",
+        "elevators": "is Designed to meet the needs of wheelchair users",
+        "facilities": "is Restrooms equipped for people with special needs."
+      },
+      "photos": [
+        "https://github.com/Moataz6333/2where-temp/images/places/lib-4.jpg",
+        "https://github.com/Moataz6333/2where-temp/images/places/lib-3.jpg",
+        "https://github.com/Moataz6333/2where-temp/images/places/lib 2.jpg"
+      ],
+      "prices": {
+        "egyptions": "Students: 5 EGP and Adults: 10 EGP",
+        "foreigners": "Students: 30 EGP and Adults: 70 EGP",
+        "entry": "Children under 6 years old and seniors (over 60 years old) can enter free",
+        "egyptions_price": 10,
+        "foreigners_price": 70,
+        "entry_price": 0
+      }
+    },
+    {
+      "id": 9,
+      "title": "Citadel of Qaitbay",
+      "description": "Citadel of Qaitbay, located in Alexandria, Egypt, is a prominent historical fortress built in the 15th century by Sultan Al-Ashraf Sayf al-Din Qaitbay. The citadel stands on the eastern tip of Pharos Island, at the exact site of the ancient Lighthouse of Alexandria, one of the Seven Wonders of the Ancient World, which was destroyed by earthquakes.",
+      "address_title": "The Citadel is situated at the western end of the Alexandria Corniche, on the Pharos Island.",
+      "address_details": null,
+      "rate": 5,
+      "features": [
+        "Built in 1477 AD, the citadel was constructed to defend Alexandria from Ottoman invasions by sea.",
+        "The location was chosen because it was where the legendary Lighthouse of Alexandria stood, linking the citadel to Egypt's rich ancient history."
+      ],
+      "timeTables": [
+        "The Citadel of Qaitbay is typically open to visitors every day from 9:00 AM to 5:00 PM. However, it's always a good idea to check for any changes in hours due to holidays or special events."
+      ],
+      "accessabilities": {
+        "description": "Staff members at the Citadel of Qaitbay are trained to assist visitors with disabilities and are available to provide information about the accessibility features of the site. There are also informative signs available in multiple languages, guiding visitors through accessible routes and facilities.",
+        "ramps": "The citadel features several ramps that provide smooth transitions for individuals with mobility challenges.",
+        "elevators": "For those who require further assistance, the Citadel is equipped with elevators that facilitate access to different levels of the structure. These elevators are spacious and designed to accommodate wheelchairs, ensuring that everyone can explore the rich history and architecture of the citadel.",
+        "facilities": "The site includes accessible restrooms that are equipped with necessary amenities to accommodate visitors with disabilities. Additionally, designated seating areas are available throughout the citadel, providing rest spots for individuals who may need a break during their visit."
+      },
+      "photos": [
+        "https://github.com/Moataz6333/2where-temp/images/places/quitbay-2.jpg",
+        "https://github.com/Moataz6333/2where-temp/images/places/quitbay-3.jpg",
+        "https://github.com/Moataz6333/2where-temp/images/places/quitbay-4.jpg"
+      ],
+      "prices": {
+        "egyptions": "60 EGP",
+        "foreigners": "60 EGP",
+        "entry": "60 EGP",
+        "egyptions_price": 60,
+        "foreigners_price": 60,
+        "entry_price": 60
+      }
+    }
+  ]

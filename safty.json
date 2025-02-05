@@ -1,0 +1,17 @@
+{
+    "safty_description": "The level of safety in Alexandria, like in many urban areas, can vary depending on the neighborhood and time of day. Generally, Alexandria is considered a relatively safe city for both residents and tourists, especially in well-populated and tourist-friendly areas like the Corniche, Stanley Bridge, and around historical sites such as the Library of Alexandria and the Citadel of Qaitbay.",
+    "keys": [
+      {
+        "title": "Tourist Areas Safety Level: 85%",
+        "description": "Tourist spots are usually well-patrolled by police, and petty crimes like pickpocketing are rare but possible, so it's advisable to remain vigilant in crowded places."
+      },
+      {
+        "title": "Transportation Safety Level: 80%",
+        "description": "Public transportation is generally safe, but it's important to use reputable services, especially at night."
+      },
+      {
+        "title": "Night Safety Safety Level: 70%",
+        "description": "Some areas may be less safe at night, particularly quieter or less populated neighborhoods. It's advisable to avoid walking alone late at night in unfamiliar areas."
+      }
+    ]
+  }

@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Ahmed Kamal",
+      "photo": "https://github.com/Moataz6333/2where-temp/images/profiles/photo_1_2023-10-23_21-57-11.jpg",
+      "about": "i am a good tourGuide",
+      "areas": "Cairo , Alexandria and Aswan",
+      "languages": "arabic (native) , English , frensh",
+      "rate": 1,
+      "experience": "5 years of experience",
+      "albums": [
+        {
+          "id": 3,
+          "title": "first albumfrom api",
+          "photos": [
+            {
+              "id": 159,
+              "path": "https://github.com/Moataz6333/2where-temp/images/albums/3/photo_1_2024-06-21_02-08-57.jpg"
+            },
+            {
+              "id": 160,
+              "path": "https://github.com/Moataz6333/2where-temp/images/albums/3/photo_1_2024-09-21_00-16-08.jpg"
+            },
+            {
+              "id": 161,
+              "path": "https://github.com/Moataz6333/2where-temp/images/albums/3/photo_11_2024-06-21_02-08-57.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]

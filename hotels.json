@@ -1,0 +1,136 @@
+[
+    {
+      "id": 1,
+      "title": "Four Seasons Hotel",
+      "address": "544 El Geish Road Hilton Alexandria Corniche, Alexandria 21611 Egypt",
+      "features": [
+        "WIFI",
+        " Pool",
+        " Breakfast included"
+      ],
+      "price": "77$",
+      "rate": 5,
+      "link": "https://www.fourseasons.com/geneva/?ppc=true&utm_source=google&utm_medium=paidsearch&utm_campaign=acr-gen-hre-low-brd-sch-xx-na-na&utm_content=na-71700000101050344-58700008259506392-0&utm_term=brand&gad_source=1&gclid=CjwKCAjw_4S3BhAAEiwA_64YhpB7y_VWNFF3b51fic2sbVPbrtEfXinw-LfPer2F9aXsK3onci54SRoCH8gQAvD_BwE&gclsrc=aw.ds",
+      "postPhoto": "https://github.com/Moataz6333/2where-temp/images/hotels/forsezon.png",
+      "photos": [],
+      "status": "accepted"
+    },
+    {
+      "id": 3,
+      "title": "Sheraton Montazah Hotel",
+      "address": "El Corniche Rd. Beside Scout Club, Alexandria 21511 Egypt",
+      "features": [
+        "WIFI",
+        " Pool",
+        " Breakfast included"
+      ],
+      "price": "23$",
+      "rate": 4,
+      "link": "https://sheraton.marriott.com/",
+      "postPhoto": "https://github.com/Moataz6333/2where-temp/images/hotels/shereton.png",
+      "photos": [],
+      "status": "accepted"
+    },
+    {
+      "id": 4,
+      "title": "Steigenberger Cecil Hotel",
+      "address": "14th of May Bridge Road Inside Hilton Alexandria Green Plaza, Alexandria 21615 Egypt",
+      "features": [
+        "WIFI",
+        " Pool",
+        " Breakfast included"
+      ],
+      "price": "40$",
+      "rate": 5,
+      "link": null,
+      "postPhoto": "https://github.com/Moataz6333/2where-temp/images/hotels/steigenberger-cecil-hotel.png",
+      "photos": [],
+      "status": "accepted"
+    },
+    {
+      "id": 5,
+      "title": "Radisson Blu Hotel",
+      "address": "544 El-Gaish Rd, Alexandria 21599 Egypt",
+      "features": [
+        "WIFI",
+        " Pool",
+        " Breakfast included"
+      ],
+      "price": "$11.00 – $90.00",
+      "rate": 3,
+      "link": null,
+      "postPhoto": "https://github.com/Moataz6333/2where-temp/images/hotels/radsion.png",
+      "photos": [],
+      "status": "accepted"
+    },
+    {
+      "id": 6,
+      "title": "Cecil Hotel",
+      "address": "Cecil Hotel at Raml Station Alexandria",
+      "features": [
+        "WIFI Pool breakfast included"
+      ],
+      "price": "100$ to High",
+      "rate": 3,
+      "link": null,
+      "postPhoto": "https://github.com/Moataz6333/2where-temp/images/hotels/06d04d0c-9248-4687-aa4f-237c86a7e43c.jpg",
+      "photos": [],
+      "status": "accepted"
+    },
+    {
+      "id": 7,
+      "title": "Cleopatra Hotel",
+      "address": "Cleopatra Hotel, Alexandria, Egypt",
+      "features": [
+        "WIFI Pool breakfast included"
+      ],
+      "price": "100$ to High",
+      "rate": 4,
+      "link": null,
+      "postPhoto": "https://github.com/Moataz6333/2where-temp/images/hotels/448692328_872644864899367_4361735569271187829_n.jpg",
+      "photos": [],
+      "status": "accepted"
+    },
+    {
+      "id": 8,
+      "title": "Romance hotel",
+      "address": "303 El-Geish Ave, Alexandria, Egypt",
+      "features": [
+        "WIFI Pool breakfast included"
+      ],
+      "price": "100$ to High",
+      "rate": 4,
+      "link": null,
+      "postPhoto": "https://github.com/Moataz6333/2where-temp/images/hotels/458304120_815879564085173_8987892381756112416_n.jpg",
+      "photos": [],
+      "status": "accepted"
+    },
+    {
+      "id": 9,
+      "title": "Palestine Hotel",
+      "address": "Helnan Royal Palestine Hotel - Montazah Gardens Alexandria",
+      "features": [
+        "WIFI Pool breakfast included"
+      ],
+      "price": "100$ to High",
+      "rate": 4,
+      "link": null,
+      "postPhoto": "https://github.com/Moataz6333/2where-temp/images/hotels/363689492.jpg",
+      "photos": [],
+      "status": "accepted"
+    },
+    {
+      "id": 10,
+      "title": "Plaza Hotel",
+      "address": "394 El Gaish Ave, Zizinia, Alexandria, Alexandria, Egypt, 00203 - See map",
+      "features": [
+        "WIFI Pool breakfast included"
+      ],
+      "price": "100$ to High",
+      "rate": 4,
+      "link": null,
+      "postPhoto": "https://github.com/Moataz6333/2where-temp/images/hotels/209123202.jpg",
+      "photos": [],
+      "status": "accepted"
+    }
+  ]

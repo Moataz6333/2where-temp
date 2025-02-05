@@ -1,0 +1,36 @@
+{
+    "id": 1,
+    "title": "Bibliotheca Alexandrina",
+    "description": "The Bibliotheca Alexandrina, located in Alexandria, Egypt, is a modern reimagining of the ancient Library of Alexandria, one of the most famous libraries of antiquity. Inaugurated in 2002, this cultural complex stands as a tribute to the original library, which was a hub of knowledge and learning in the ancient world.",
+    "address_title": "Corniche Road, Shatby, Alexandria, Egypt.",
+    "address_details": "The Bibliotheca Alexandrina is located along the Corniche, offering beautiful views of the Mediterranean Sea and is easily accessible from various parts of the city.",
+    "rate": 5,
+    "features": [
+      "The library is an architectural marvel, featuring a massive disc-shaped structure tilted toward the Mediterranean Sea, symbolizing the rising sun and the spread of knowledge.",
+      "The library includes specialized research centers focusing on various fields such as information sciences, calligraphy, and cultural heritage."
+    ],
+    "timeTables": [
+      "Sunday to Thursday: 10:00 AM - 7:00 PM ",
+      "Friday and Saturday: 2:00 PM - 7:00 PM",
+      " Closed on Public holidays and certain special occasions."
+    ],
+    "accessabilities": {
+      "description": "The Bibliotheca Alexandrina is fully equipped to accommodate visitors with disabilities.",
+      "ramps": "is Available at all main entrances.",
+      "elevators": "is Designed to meet the needs of wheelchair users",
+      "facilities": "is Restrooms equipped for people with special needs."
+    },
+    "photos": [
+      "https://github.com/Moataz6333/2where-temp/images/places/lib-4.jpg",
+      "https://github.com/Moataz6333/2where-temp/images/places/lib-3.jpg",
+      "https://github.com/Moataz6333/2where-temp/images/places/lib 2.jpg"
+    ],
+    "prices": {
+      "egyptions": "Students: 5 EGP and Adults: 10 EGP",
+      "foreigners": "Students: 30 EGP and Adults: 70 EGP",
+      "entry": "Children under 6 years old and seniors (over 60 years old) can enter free",
+      "egyptions_price": 10,
+      "foreigners_price": 70,
+      "entry_price": 0
+    }
+  }

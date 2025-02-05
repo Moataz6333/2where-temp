@@ -1,0 +1,221 @@
+[
+    {
+      "id": 1,
+      "title": "Santorini Restaurant",
+      "address": "544 El Geish Road Hilton Alexandria\r\nCorniche, Alexandria 21611 Egypt",
+      "features": [
+        "Seafood",
+        "Restaurant"
+      ],
+      "price": "Moderate to High",
+      "rate": 5,
+      "postPhoto": "https://github.com/Moataz6333/2where-temp/images/restaraunts/restaurant-1.jpg",
+      "photos": [
+        "https://github.com/Moataz6333/2where-temp/images/restaraunts/alex sefoood 1.png",
+        "https://github.com/Moataz6333/2where-temp/images/restaraunts/boats-port-alicante 1.png"
+      ],
+      "menu": [
+        "https://github.com/Moataz6333/2where-temp/images/restaraunts/download.jfif",
+        "https://github.com/Moataz6333/2where-temp/images/restaraunts/download2.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "SeaSide",
+      "address": "L Bay , Fort Qaitbay area , Bahary Qaitbay Area , 2nd floor., Alexandria 21599 Egypt",
+      "features": [
+        "Seafood",
+        "Healthy"
+      ],
+      "price": "Moderate to High",
+      "rate": 4,
+      "postPhoto": "https://github.com/Moataz6333/2where-temp/images/restaraunts/restaurant-5-fotor-2024101016360.png",
+      "photos": [],
+      "menu": []
+    },
+    {
+      "id": 3,
+      "title": "Massala Zone Indian Restaurant",
+      "address": "14th of May Bridge Road Inside Hilton Alexandria Green Plaza, Alexandria 21615 Egypt",
+      "features": [
+        "Indian",
+        "Asian",
+        "Healthy"
+      ],
+      "price": "$0.10 – $8.00",
+      "rate": 4,
+      "postPhoto": "https://github.com/Moataz6333/2where-temp/images/restaraunts/massala-zone-indian-restaurant 1.png",
+      "photos": [],
+      "menu": []
+    },
+    {
+      "id": 4,
+      "title": "La Gourmandise Restaurant and Cafe",
+      "address": "544 El-Gaish Rd, Alexandria 21599 Egypt",
+      "features": [
+        "French,",
+        "American",
+        "International",
+        "",
+        "European"
+      ],
+      "price": "$11.00 – $22.00",
+      "rate": 5,
+      "postPhoto": "https://github.com/Moataz6333/2where-temp/images/restaraunts/restaurant-6-fotor-20241010163541.png",
+      "photos": [],
+      "menu": []
+    },
+    {
+      "id": 6,
+      "title": "kebda elfalah",
+      "address": "9 Caesar Street next to the metro cinema Raml Station, Alexandria Egypt",
+      "features": [
+        "Meat",
+        "liver"
+      ],
+      "price": "0.25$",
+      "rate": 4,
+      "postPhoto": "https://github.com/Moataz6333/2where-temp/images/restaraunts/7691f769-fc23-4b13-9771-475186ba32e0.jpg",
+      "photos": [],
+      "menu": []
+    },
+    {
+      "id": 7,
+      "title": "balbaa vilage",
+      "address": "Malak Hefni Sidi Bishr Street Alexandria, Egypt",
+      "features": [
+        "grilled",
+        "meats",
+        "and",
+        "fish"
+      ],
+      "price": "Moderate to High",
+      "rate": 5,
+      "postPhoto": "https://github.com/Moataz6333/2where-temp/images/restaraunts/06d04d0c-9248-4687-aa4f-237c86a7e43c.jpg",
+      "photos": [],
+      "menu": []
+    },
+    {
+      "id": 8,
+      "title": "El Baraka",
+      "address": "Elessawy Street Miami Alexandria",
+      "features": [
+        "Fried",
+        "Chicken"
+      ],
+      "price": "4$",
+      "rate": 4,
+      "postPhoto": "https://github.com/Moataz6333/2where-temp/images/restaraunts/d9a43b72-38c5-45c6-a103-dedda506d173.jpg",
+      "photos": [],
+      "menu": []
+    },
+    {
+      "id": 9,
+      "title": "fool Mohamed Ahmed",
+      "address": "17 Shakur St. Raml Station Alexandria",
+      "features": [
+        "Egyptian",
+        "traditional",
+        "food"
+      ],
+      "price": "0.30",
+      "rate": 3,
+      "postPhoto": "https://github.com/Moataz6333/2where-temp/images/restaraunts/photo_5787579856152807621_y.jpg",
+      "photos": [],
+      "menu": []
+    },
+    {
+      "id": 10,
+      "title": "Koshary El Tahrir",
+      "address": "Khaled Ibn El Walid Street Sidi Bishr Alexandria",
+      "features": [
+        "Koshari",
+        "traditional",
+        "food"
+      ],
+      "price": "0.75$ to 1$",
+      "rate": 4,
+      "postPhoto": "https://github.com/Moataz6333/2where-temp/images/restaraunts/photo_5787579856152807623_y.jpg",
+      "photos": [],
+      "menu": []
+    },
+    {
+      "id": 11,
+      "title": "El Marsa",
+      "address": "157 Khaled Ibn El Walid Street Sidi Bishr Alexandria",
+      "features": [
+        "sea",
+        "food"
+      ],
+      "price": "Moderate to High",
+      "rate": 5,
+      "postPhoto": "https://github.com/Moataz6333/2where-temp/images/restaraunts/photo_5787579856152807624_y.jpg",
+      "photos": [],
+      "menu": []
+    },
+    {
+      "id": 12,
+      "title": "Flaky",
+      "address": "52 Al Akbal as soyof Bahri Montaza alexandria",
+      "features": [
+        "Egyptian",
+        "Pies"
+      ],
+      "price": "Moderate to High",
+      "rate": 5,
+      "postPhoto": "https://github.com/Moataz6333/2where-temp/images/restaraunts/photo_5787579856152807626_y.jpg",
+      "photos": [],
+      "menu": []
+    },
+    {
+      "id": 13,
+      "title": "hoda gondol",
+      "address": "Azarita between Sutter Street and Champollion on the tram behind pharmacy 19011, Alexandria, Egypt",
+      "features": [
+        "Fish",
+        "and",
+        "Seafood"
+      ],
+      "price": "Moderate to High",
+      "rate": 3,
+      "postPhoto": "https://github.com/Moataz6333/2where-temp/images/restaraunts/307301272_456708729826395_3673961125600418252_n.jpg",
+      "photos": [],
+      "menu": []
+    },
+    {
+      "id": 14,
+      "title": "El Am Zaghlol",
+      "address": "Azarita on the tram Qesm Bab sharky Alexandria",
+      "features": [
+        "Egyptian",
+        "traditional",
+        "food"
+      ],
+      "price": "1.5$",
+      "rate": 4,
+      "postPhoto": "https://github.com/Moataz6333/2where-temp/images/restaraunts/313220520_186236790576693_4678371811902600263_n.jpg",
+      "photos": [],
+      "menu": []
+    },
+    {
+      "id": 19,
+      "title": "Koshary El Zaeim",
+      "address": "https://maps.app.goo.gl/72Ry2rWxL7RBKmRf6",
+      "features": [
+        "Egyption",
+        "Koshary",
+        "spicy"
+      ],
+      "price": "medium prices",
+      "rate": 5,
+      "postPhoto": "https://i.ibb.co/myJqBG9/images.jpg",
+      "photos": [
+        "https://i.ibb.co/WD6z4ZV/slide-2.jpg",
+        "https://i.ibb.co/T2FHpx6/slide-1.jpg"
+      ],
+      "menu": [
+        "https://i.ibb.co/60jtMT5/men-1.jpg",
+        "https://i.ibb.co/Ldp2zr5/men-2.jpg"
+      ]
+    }
+  ]
