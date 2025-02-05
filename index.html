@@ -1,0 +1,258 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>  </title>
+      <!-- Bootstrap CSS -->
+      <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+        <!-- <link rel="stylesheet" href="https://github.com/Moataz6333/2where-temp/css/style.css"> -->
+</head>
+<body class="bg-light">
+
+    
+
+
+<div class="container mt-4">
+<h2 class="text-center m-3">Api of the content of the site</h2>
+      <!-- Feedback message -->
+      <div style="height: 20px" class="m-2">
+        <p id="copyMessage" class="text-success " style="display: none;">Link copied to clipboard!</p>
+
+      </div>
+
+<table class="table table-striped">
+    <thead class="thead-dark ">
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Name</th>
+        <th scope="col">Description</th>
+        <th scope="col">view</th>
+        <th scope="col">copy</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row">1</th>
+        <td>/cities.json</td>
+        <td>returns all cities</td>
+        <td><a href="https://github.com/Moataz6333/2where-temp/api/cities.json" target="_blank" class="btn btn-primary">view</a></td>
+
+        <td> <input type="text" value="https://github.com/Moataz6333/2where-temp/api/cities.json" id="link1" class="form-control mb-3" style="display: none">
+            <button class="btn btn-danger" onclick="copyLink(1)">copy</button></td>
+      </tr>
+      <tr>
+        <th scope="row">2</th>
+        <td>/alexandria.json</td>
+        <td>returns alexandria</td>
+        <td><a href="https://github.com/Moataz6333/2where-temp/api/alexandria.json" target="_blank" class="btn btn-primary">view</a></td>
+
+        <td> <input type="text" value="https://github.com/Moataz6333/2where-temp/api/alexandria.json" id="link2" class="form-control mb-3" style="display: none">
+            <button class="btn btn-danger" onclick="copyLink(2)">copy</button></td>
+      </tr>
+      <tr>
+        <th scope="row">3</th>
+        <td>/safty.json</td>
+        <td>safty of alexandria</td>
+        <td><a href="https://github.com/Moataz6333/2where-temp/api/safty.json" target="_blank" class="btn btn-primary">view</a></td>
+
+        <td> <input type="text" value="https://github.com/Moataz6333/2where-temp/api/safty.json" id="link3" class="form-control mb-3" style="display: none">
+            <button class="btn btn-danger" onclick="copyLink(3)">copy</button></td>
+      </tr>
+      <tr>
+        <th scope="row">4</th>
+        <td>/places.json</td>
+        <td>places of alexandria</td>
+        <td><a href="https://github.com/Moataz6333/2where-temp/api/places.json" target="_blank" class="btn btn-primary">view</a></td>
+
+        <td> <input type="text" value="https://github.com/Moataz6333/2where-temp/api/places.json" id="link4" class="form-control mb-3" style="display: none">
+            <button class="btn btn-danger" onclick="copyLink(4)">copy</button></td>
+      </tr>
+      <tr>
+        <th scope="row">5</th>
+        <td>/places-posts.json</td>
+        <td>places as posts</td>
+        <td><a href="https://github.com/Moataz6333/2where-temp/api/places-posts.json" target="_blank" class="btn btn-primary">view</a></td>
+
+        <td> <input type="text" value="https://github.com/Moataz6333/2where-temp/api/places-posts.jsonid="link5" class="form-control mb-3" style="display: none">
+            <button class="btn btn-danger" onclick="copyLink(5)">copy</button></td>
+      </tr>
+      <tr>
+        <th scope="row">6</th>
+        <td>/rests.json</td>
+        <td>all restaraunts</td>
+        <td><a href="https://github.com/Moataz6333/2where-temp/api/rests.json" target="_blank" class="btn btn-primary">view</a></td>
+
+        <td> <input type="text" value="https://github.com/Moataz6333/2where-temp/api/rests.json" id="link6" class="form-control mb-3" style="display: none">
+            <button class="btn btn-danger" onclick="copyLink(6)">copy</button></td>
+      </tr>
+      <tr>
+        <th scope="row">7</th>
+        <td>/hotels</td>
+        <td>all hotels</td>
+        <td><a href="https://github.com/Moataz6333/2where-temp/api/hotels.josn" target="_blank" class="btn btn-primary">view</a></td>
+
+        <td> <input type="text" value="https://github.com/Moataz6333/2where-temp/api/hotels.json" id="link7" class="form-control mb-3" style="display: none">
+            <button class="btn btn-danger" onclick="copyLink(7)">copy</button></td>
+      </tr>
+      <tr>
+        <th scope="row">8</th>
+        <td>/plans.json</td>
+        <td>all plans</td>
+        <td><a href="https://github.com/Moataz6333/2where-temp/api/plans.json" target="_blank" class="btn btn-primary">view</a></td>
+
+        <td> <input type="text" value="https://github.com/Moataz6333/2where-temp/api/plans.json" id="link8" class="form-control mb-3" style="display: none">
+            <button class="btn btn-danger" onclick="copyLink(8)">copy</button></td>
+      </tr>
+      <tr>
+        <th scope="row">9</th>
+        <td>/place1.json</td>
+        <td>one place</td>
+        <td><a href="https://github.com/Moataz6333/2where-temp/api/place1.json" target="_blank" class="btn btn-primary">view</a></td>
+
+        <td> <input type="text" value="https://github.com/Moataz6333/2where-temp/api/place1.json" id="link9" class="form-control mb-3" style="display: none">
+            <button class="btn btn-danger" onclick="copyLink(9)">copy</button></td>
+      </tr>
+      <tr>
+        <th scope="row">10</th>
+        <td>/rest1.json</td>
+        <td>one restaraunt</td>
+        <td><a href="https://github.com/Moataz6333/2where-temp/api/rest1.json" target="_blank" class="btn btn-primary">view</a></td>
+
+        <td> <input type="text" value="https://github.com/Moataz6333/2where-temp/api/rest1.json" id="link10" class="form-control mb-3" style="display: none">
+            <button class="btn btn-danger" onclick="copyLink(10)">copy</button></td>
+      </tr>
+      <tr>
+        <th scope="row">11</th>
+        <td>/hotel1.json</td>
+        <td>one hotels</td>
+        <td><a href="https://github.com/Moataz6333/2where-temp/api/hotel1.json" target="_blank" class="btn btn-primary">view</a></td>
+
+        <td> <input type="text" value="https://github.com/Moataz6333/2where-temp/api/hotel1.json" id="link11" class="form-control mb-3" style="display: none">
+            <button class="btn btn-danger" onclick="copyLink(11)">copy</button></td>
+      </tr>
+      
+      <tr>
+        <th scope="row">13</th>
+
+        <td >/me.json</td>
+
+        <td>user or message</td>
+
+        <td><a href="https://github.com/Moataz6333/2where-temp/api/me.json" target="_blank" class="btn btn-primary">view</a></td>
+
+
+       
+
+
+        <td> <input type="text" value="https://github.com/Moataz6333/2where-temp/api/me.json" id="link13" class="form-control mb-3" style="display: none">
+            <button class="btn btn-danger" onclick="copyLink(13)">copy</button></td>
+      </tr>
+      <tr>
+        <th scope="row">14</th>
+
+        <td >/about.json</td>
+
+        <td>array of objects</td>
+
+        <td><a href="https://github.com/Moataz6333/2where-temp/api/about.json" target="_blank" class="btn btn-primary">view</a></td>
+
+
+       
+
+
+        <td> <input type="text" value="https://github.com/Moataz6333/2where-temp/api/about.json" id="link14" class="form-control mb-3" style="display: none">
+            <button class="btn btn-danger" onclick="copyLink(14)">copy</button></td>
+      </tr>
+      <tr class="table-primary">
+        <th scope="row">15</th>
+
+        <td >/tourGuides.json</td>
+
+        <td>array of all TourGuides</td>
+
+        <td><a href="https://github.com/Moataz6333/2where-temp/api/tourGuides.json" target="_blank" class="btn btn-primary">view</a></td>
+
+
+       
+
+
+        <td> <input type="text" value="https://github.com/Moataz6333/2where-temp/api/tourGuides.json" id="link15" class="form-control mb-3" style="display: none">
+            <button class="btn btn-danger" onclick="copyLink(15)">copy</button></td>
+      </tr>
+      <tr class="table-primary">
+        <th scope="row">16</th>
+
+        <td >/tourguide_1.json</td>
+
+        <td>tourGuide with id</td>
+
+        <td><a href="https://github.com/Moataz6333/2where-temp/api/tourguide_1.json" target="_blank" class="btn btn-primary">view</a></td>
+
+
+       
+
+
+        <td> <input type="text" value="https://github.com/Moataz6333/2where-temp/api/tourguide_1.json" id="link16" class="form-control mb-3" style="display: none">
+            <button class="btn btn-danger" onclick="copyLink(16)">copy</button></td>
+      </tr>
+     
+    </tbody>
+  </table>
+  
+ 
+  
+    
+    
+
+  
+
+
+
+
+
+
+
+
+
+<script>
+    function copyLink(id) {
+        // Get the hidden input field element
+        var copyText = document.getElementById(`link${id}`);
+
+        // Make the input field temporarily visible
+        copyText.style.display = "block";
+        
+        // Select the text field
+        copyText.select();
+        copyText.setSelectionRange(0, 99999); // For mobile devices
+
+        // Copy the text inside the text field
+        document.execCommand("copy");
+
+        // Hide the input field again
+        copyText.style.display = "none";
+
+        // Show a message that the link has been copied
+        var copyMessage = document.getElementById("copyMessage");
+        copyMessage.style.display = "block";
+        
+        // Hide the message after 2 seconds
+        setTimeout(function() {
+            copyMessage.style.display = "none";
+        }, 2000);
+    }
+</script>
+</div>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <script>function confirmDelete() {
+      return confirm('Are you sure you want to delete this City?');
+  }
+  </script>
+</body>
+</html>
